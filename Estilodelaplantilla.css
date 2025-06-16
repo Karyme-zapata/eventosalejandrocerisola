@@ -1,0 +1,77 @@
+h1{
+background-image:  url("FONDO.jpg");
+            margin-bottom: 20px;
+font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            font-size: 4.0em;
+            background-color:#001EFF;
+            text-align:center;
+color:#FFFFFF;
+        }
+
+body{
+	background-image: url("Fondoo.jpg");
+}
+#lista{
+	font-family:tahoma;
+font-size: 2.5em;
+margin-left:30%;
+margin-right: 30%;
+color:#0023F5;
+list-style: none;
+text-align: center;
+}
+li{
+	margin-bottom: 10%;
+}
+
+nav{
+	background-color: navy blue;
+}
+
+#etiquetaini{
+background-color:navy blue;
+font-family: tahoma;
+font-size: 2em;
+margin-left: 7%;
+}
+#etiquetarec{
+	background-color:navy blue;
+font-family: tahoma;
+font-size: 2em;
+}
+footer{
+	font-family: Critter;
+
+	background-color: #85D3D4;
+	height: 60%;
+	font-size: 2.6em;
+	color:#00023D;
+	text-align:center; 
+
+}
+p{
+margin-top:20px;	
+font-size: .5em;
+color: black;
+
+}
+img{
+	width: 90px;
+	height: 90px;
+}
+
+img{
+width: 250px;
+height: 180px;
+align-content: center;	
+}
+
+.logos{
+width: 90px;
+	height: 90px;	
+}
+#pie {
+	font-size:5em;
+}
